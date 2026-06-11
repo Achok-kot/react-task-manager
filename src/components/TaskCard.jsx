@@ -7,7 +7,7 @@ export default function TaskCard({ task }) {
             <p>{task.status}</p>
 
             <Link
-            to={`/task.id`}
+            to={`/task.id/${task.id}`}
 
             >
                 View Details
