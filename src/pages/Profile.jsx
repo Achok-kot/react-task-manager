@@ -4,7 +4,7 @@ import UserCard from "../components/UserCard";
 export default function Profile() {
     return (
         <div>
-            <PageHeader title="Profile" />
+            <PageHearder title="Profile" />
 
             <UserCard />
 
@@ -13,7 +13,7 @@ export default function Profile() {
 
                 <p>
                     Panom Achok is a student who is being coached
-                    Christian Camilo in codeCamp academy at
+                    by Christian Camilo in codeCamp academy at
                     prime.teck.
                 </p>
             </section>

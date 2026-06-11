@@ -4,7 +4,7 @@ import DashboardStats from "../components/DashboardStats";
 export default function Reports() {
     return (
         <div>
-            <PageHeader title="Reports" />
+            <PageHearder title="Reports" />
 
             <DashboardStats />
 

@@ -3,7 +3,7 @@ import PageHearder from "../components/PageHearder";
 export default function Settings() {
     return (
         <div>
-            <PageHeader title="Settings" />
+            <PageHearder title="Settings" />
 
             <section>
                 <h2>Theme Settings</h2>
