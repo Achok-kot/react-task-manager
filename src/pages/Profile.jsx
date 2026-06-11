@@ -1,4 +1,4 @@
-import PageHeader from "../components/PageHeader";
+import PageHearder from "../components/PageHearder";
 import UserCard from "../components/UserCard";
 
 export default function Profile() {
@@ -12,9 +12,9 @@ export default function Profile() {
                 <h2>Profile Summary</h2>
 
                 <p>
-                    Cristian Camilo is responsible for managing
-                    project development and coordinating the
-                    development team.
+                    Panom Achok is a student who is being coached
+                    Christian Camilo in codeCamp academy at
+                    prime.teck.
                 </p>
             </section>
         </div>

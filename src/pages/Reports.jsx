@@ -1,4 +1,4 @@
-import PageHeader from "../components/PageHeader";
+import PageHearder from "../components/PageHearder";
 import DashboardStats from "../components/DashboardStats";
 
 export default function Reports() {
@@ -12,8 +12,8 @@ export default function Reports() {
                 <h2>Productivity Summary</h2>
 
                 <p>
-                    The team completed 75% of all assigned
-                    tasks during the current sprint.
+                    Am still learning more in the code camp.
+                    Academy and soon i will be okay with everything.
                 </p>
             </section>
         </div>

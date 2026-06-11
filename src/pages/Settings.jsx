@@ -1,4 +1,4 @@
-import PageHeader from "../components/PageHeader";
+import PageHearder from "../components/PageHearder";
 
 export default function Settings() {
     return (
@@ -8,21 +8,19 @@ export default function Settings() {
             <section>
                 <h2>Theme Settings</h2>
 
-                <p>Current Theme: Light Mode</p>
+                <p>Current Theme is black Mode</p>
             </section>
 
             <section>
                 <h2>Notification Settings</h2>
 
-                <p>Email Notifications: Enabled</p>
+                <p>Disabled</p>
             </section>
 
             <section>
                 <h2>Account Settings</h2>
 
-                <p>Password Management</p>
-
-                <p>Privacy Preferences</p>
+                <p>Public</p>
             </section>
         </div>
     );
